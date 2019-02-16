@@ -88,7 +88,7 @@
   * [Web Worker](bom/webworker.md)
 * [附录：网页元素接口](elements/README.md)
   * [&lt;a&gt;](elements/a.md)
-  * [元素](elements/image.md)
+  * [&lt;img&gt;](elements/image.md)
   * [&lt;form&gt;](elements/form.md)
   * [&lt;input&gt;](elements/input.md)
   * [&lt;button&gt;](elements/button.md)
