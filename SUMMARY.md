@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [JavaScript 教程](README.md)
 * [前言](preface.md)
 * [入门篇](basic/README.md)
   * [导论](basic/introduction.md)
